@@ -5,7 +5,7 @@ __pycache__/
 *$py.class
 
 **/todoenv/
-todoenv/*
+**/todoenv/*
 # C extensions
 *.so
 
